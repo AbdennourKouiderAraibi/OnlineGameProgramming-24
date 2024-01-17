@@ -1,0 +1,10 @@
+{ 
+   "StartAsHost" : "False", 
+   "StartAsServer" : "False", 
+   "StartAsClient" : "True", 
+   "MaxPlayers" : "1", 
+   "Port" : "9797", 
+   "EnableBots" : "false", 
+   "ServerIP" : "127.0.0.1", 
+   "AutoConnect" : "False"
+}
